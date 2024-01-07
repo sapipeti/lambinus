@@ -1,9 +1,9 @@
 :host {
-    --color-btn-primary-bg: #fff;
-    --color-btn-primary-fg: #44BBA4;
+    --color-btn-primary-bg: #44BBA4;
+    --color-btn-primary-fg: #fff;
     --color-btn-primary-border: #44BBA4;
     --color-btn-primary-hover-bg: #3A545C;
-    --color-btn-primary-hover-fg: #3A545C;
+    --color-btn-primary-hover-fg: #fff;
     --color-btn-primary-hover-border: #3A545C;
     --color-btn-primary-disabled-bg: #a2b0ff;
     --color-btn-primary-disabled-fg: #fff;
