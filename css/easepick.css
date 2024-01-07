@@ -1,16 +1,31 @@
 :host {
-  --color-bg-default: #3f51b5;
-  --color-fg-primary: #ffc107;
-  --color-fg-default: #fff;
-  --color-fg-accent: #ff9800;
-  --color-bg-inrange: #333;
-  --day-width: 35px;
-  --day-height: 30px;
+    --color-btn-primary-bg: #fff;
+    --color-btn-primary-fg: #44BBA4;
+    --color-btn-primary-border: #44BBA4;
+    --color-btn-primary-hover-bg: #3A545C;
+    --color-btn-primary-hover-fg: #3A545C;
+    --color-btn-primary-hover-border: #3A545C;
+    --color-btn-primary-disabled-bg: #a2b0ff;
+    --color-btn-primary-disabled-fg: #fff;
+    --color-btn-primary-disabled-border: #a2b0ff;
+    --color-btn-secondary-bg: #fff;
+    --color-btn-secondary-fg: #748194;
+    --color-btn-secondary-border: #748194;
+    --color-btn-secondary-hover-bg: #748194;
+    --color-btn-secondary-hover-fg: #fff;
+    --color-btn-secondary-hover-border: #748194;
+    --color-btn-secondary-disabled-bg: #b5bbc4;
+    --color-btn-secondary-disabled-fg: #fff;
+    --color-btn-secondary-disabled-border: #b5bbc4;
+    --color-border-default: #ddd;
 }
-/* increase start and end */
-.container.range-plugin .calendar>.days-grid>.day.start,
-.container.range-plugin .calendar>.days-grid>.day.end {
-  font-weight: bold;
-  transform: scale(1.2);
-  z-index: 1;
+.calendar {
+  width: 330px;
+}
+.calendar>.days-grid>.day .day-price {
+  font-size: 80%;
+  color: #2196f3;
+}
+.calendar>.days-grid>.day.selected .day-price {
+  color: #fff;
 }
