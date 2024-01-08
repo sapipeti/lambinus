@@ -1,6 +1,7 @@
 :host {
     --color-fg-primary: #44BBA4;
     --color-bg-inrange: #EBFFFB;
+    --color-fg-selected: #fff;
     --color-btn-primary-bg: #44BBA4;
     --color-btn-primary-fg: #fff;
     --color-btn-primary-border: #44BBA4;
