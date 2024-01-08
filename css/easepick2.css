@@ -18,9 +18,10 @@
     --color-btn-secondary-disabled-fg: #fff;
     --color-btn-secondary-disabled-border: #b5bbc4;
     --color-border-default: #ddd;
+    --day-width: 40px;
 }
 .calendar {
-  width: 450px;
+  width: 330px;
 }
 .calendar>.days-grid>.day .day-price {
   font-size: 80%;
