@@ -1,7 +1,5 @@
 :host {
     --color-fg-primary: #44BBA4;
-    --color-fg-secondary: #fff;
-    --secondary-color: #fff;
     --color-bg-inrange: #EBFFFB;
     --color-btn-primary-bg: #44BBA4;
     --color-btn-primary-fg: #fff;
@@ -34,4 +32,8 @@
 }
 .calendar>.days-grid>.day.selected .day-price {
   color: #fff;
+}
+.container.range-plugin .calendar > .days-grid > .day.end {
+    background-color: var(--color-fg-primary);
+    color: var(--color-fg-selected);
 }
