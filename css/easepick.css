@@ -5,9 +5,9 @@
     --color-btn-primary-hover-bg: #3A545C;
     --color-btn-primary-hover-fg: #fff;
     --color-btn-primary-hover-border: #3A545C;
-    --color-btn-primary-disabled-bg: #a2b0ff;
+    --color-btn-primary-disabled-bg: #3A545C;
     --color-btn-primary-disabled-fg: #fff;
-    --color-btn-primary-disabled-border: #a2b0ff;
+    --color-btn-primary-disabled-border: #3A545C;
     --color-btn-secondary-bg: #fff;
     --color-btn-secondary-fg: #748194;
     --color-btn-secondary-border: #748194;
@@ -20,7 +20,7 @@
     --color-border-default: #ddd;
 }
 .calendar {
-  width: 330px;
+  width: 350px;
 }
 .calendar>.days-grid>.day .day-price {
   font-size: 80%;
