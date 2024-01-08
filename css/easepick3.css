@@ -21,7 +21,7 @@
     --day-width: 40px;
 }
 .calendar {
-  width: 330px;
+  width: 400px;
 }
 .calendar>.days-grid>.day .day-price {
   font-size: 80%;
