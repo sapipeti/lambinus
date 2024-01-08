@@ -34,7 +34,7 @@
 .calendar>.days-grid>.day.selected .day-price {
   color: #fff;
 }
-.container.range-plugin .calendar > .days-grid > .day.end {
+.container.range-plugin .calendar > .days-grid > .day.start {
     background-color: var(--color-fg-primary);
-    color: var(--color-fg-selected);
+    color: #B5A33F;
 }
