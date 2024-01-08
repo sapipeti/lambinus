@@ -20,7 +20,7 @@
     --color-border-default: #ddd;
 }
 .calendar {
-  width: 350px;
+  width: 450px;
 }
 .calendar>.days-grid>.day .day-price {
   font-size: 80%;
