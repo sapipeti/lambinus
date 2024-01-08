@@ -18,7 +18,7 @@
     --color-btn-secondary-disabled-fg: #fff;
     --color-btn-secondary-disabled-border: #b5bbc4;
     --color-border-default: #ddd;
-    --day-width: 40px;
+    --day-width: 50px;
 }
 .calendar {
   width: 400px;
