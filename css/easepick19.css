@@ -43,7 +43,7 @@
     color: var(--color-btn-primary-fg);
     height: 40px;
     width: 80px;
-    border-radius: 5px;
+    border-radius: 999px;
 }
 .container > footer .footer-buttons > button.cancel-button {
     background-color: var(--color-btn-secondary-bg);
@@ -51,5 +51,5 @@
     color: var(--color-btn-secondary-fg);
     height: 40px;
     width: 80px;
-    border-radius: 5px;
+    border-radius: 999px;
 }
